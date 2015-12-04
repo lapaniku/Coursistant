@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arts</key>
+	<string>Social</string>
+	<key>biology</key>
+	<string>Natural</string>
+	<key>business</key>
+	<string>Social</string>
+	<key>chemistry</key>
+	<string>Natural</string>
+	<key>cs-ai</key>
+	<string>Applied</string>
+	<key>cs-programming</key>
+	<string>Applied</string>
+	<key>cs-systems</key>
+	<string>Applied</string>
+	<key>cs-theory</key>
+	<string>Applied</string>
+	<key>economics</key>
+	<string>Social</string>
+	<key>education</key>
+	<string>Social</string>
+	<key>energy</key>
+	<string>Natural</string>
+	<key>ee</key>
+	<string>Applied</string>
+	<key>food</key>
+	<string>Applied</string>
+	<key>health</key>
+	<string>Social</string>
+	<key>humanities</key>
+	<string>Social</string>
+	<key>infotech</key>
+	<string>Applied</string>
+	<key>law</key>
+	<string>Social</string>
+	<key>math</key>
+	<string>Formal</string>
+	<key>medicine</key>
+	<string>Applied</string>
+	<key>music</key>
+	<string>Social</string>
+	<key>physical</key>
+	<string>Natural</string>
+	<key>physics</key>
+	<string>Natural</string>
+	<key>socsci</key>
+	<string>Social</string>
+	<key>stats</key>
+	<string>Formal</string>
+	<key>teacherpd</key>
+	<string>Social</string>
+	<key>COMPUTER SCIENCE</key>
+	<string>Applied</string>
+	<key>PHYSICS</key>
+	<string>Natural</string>
+	<key>MATHEMATICS</key>
+	<string>Formal</string>
+	<key>PSYCHOLOGY</key>
+	<string>Social</string>
+	<key>BUSINESS</key>
+	<string>Social</string>
+</dict>
+</plist>

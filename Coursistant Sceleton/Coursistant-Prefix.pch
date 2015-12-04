@@ -1,0 +1,23 @@
+//
+// Prefix header for all source files of the 'Coursistant Sceleton' target in the 'Coursistant Sceleton' project
+//
+
+#import <Availability.h>
+#import <SystemConfiguration/SystemConfiguration.h>
+#import <MobileCoreServices/MobileCoreServices.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+///// as per http://stackoverflow.com/questions/13477109/im-getting-compiler-warnings-with-afnetworking-but-shouldnt-be-how-do-i-fix/13479569#13479569
+#import <SystemConfiguration/SystemConfiguration.h>
+#import <MobileCoreServices/MobileCoreServices.h>
+/////
+
+#endif
+
+

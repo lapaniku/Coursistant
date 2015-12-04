@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>new_course_facebook_full</key>
+	<true/>
+	<key>video_gesture_tap_drag_rewind_full</key>
+	<true/>
+	<key>video_gesture_tap_pause_full</key>
+	<true/>
+	<key>in_video_quiz_full</key>
+	<false/>
+	<key>delete_confirmation_full</key>
+	<true/>
+</dict>
+</plist>

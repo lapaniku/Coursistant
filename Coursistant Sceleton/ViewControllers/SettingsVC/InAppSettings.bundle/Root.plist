@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>Manage files</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<true/>
+			<key>Key</key>
+			<string>delete_confirmation_full</string>
+			<key>Title</key>
+			<string>Enable delete confirmation</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>TrueValue</key>
+			<string>1</string>
+			<key>FalseValue</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>Title</key>
+			<string>Playback</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>Title</key>
+			<string>Enable in-video quizzes (Beta)</string>
+			<key>Key</key>
+			<string>in_video_quiz_full</string>
+			<key>DefaultValue</key>
+			<false/>
+			<key>TrueValue</key>
+			<string>1</string>
+			<key>FalseValue</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>Title</key>
+			<string>Control video by gestures: one tap pause</string>
+			<key>Key</key>
+			<string>video_gesture_tap_pause_full</string>
+			<key>DefaultValue</key>
+			<true/>
+			<key>TrueValue</key>
+			<string>1</string>
+			<key>FalseValue</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>Title</key>
+			<string>Control video by gestures: fast rewind by tap and drag (back or forward)</string>
+			<key>Key</key>
+			<string>video_gesture_tap_drag_rewind_full</string>
+			<key>DefaultValue</key>
+			<true/>
+			<key>TrueValue</key>
+			<string>1</string>
+			<key>FalseValue</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>Title</key>
+			<string>Social</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>Title</key>
+			<string>Propose me to commit socially via Facebook (when starting new course)</string>
+			<key>Key</key>
+			<string>new_course_facebook_full</string>
+			<key>DefaultValue</key>
+			<true/>
+			<key>TrueValue</key>
+			<string>1</string>
+			<key>FalseValue</key>
+			<string>0</string>
+		</dict>
+	</array>
+	<key>StringsTable</key>
+	<string>Root</string>
+</dict>
+</plist>
